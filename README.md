@@ -62,6 +62,7 @@ Com ele você consegue testar todas as funcionalidades ditas neste documento
 :warning: Por ser um teste, o login possui um User e Password padrão respectivamente ```"Admin"```  ```"Teste123"```, Em uma API de fato não se deve colocar esses dados sensiveis no back-end, além de ser uma má prática é um risco a segurança.
 
 ![Alt text](img/1.gif)
+<img src="img/1.gif" width="40" height="40" />
 
 ## Licença 
 
