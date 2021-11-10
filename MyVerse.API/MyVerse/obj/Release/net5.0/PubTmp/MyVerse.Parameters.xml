@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MyVerse" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\natha\\OneDrive\\Documents\\PloomesAPI\\MyVerse\.API\\MyVerse\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="MyVerse.Context.AppDbContext" description="" value="Data Source=tcp:myversedbserver.database.windows.net,1433;Initial Catalog=MyVerse_db;User Id=sqladmin@myversedbserver;Password=P3l1c4n0" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\natha\\OneDrive\\Documents\\PloomesAPI\\MyVerse\.API\\MyVerse\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\MyVerse\.Context\.AppDbContext\.sql$" />
+  </parameter>
+</parameters>

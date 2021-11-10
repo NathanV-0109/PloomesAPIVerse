@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAA7jmiSUZ0yYWbeoxoE2FwAAAAACAAAAAAAQZgAAAAEAACAAAADrhlSO4RFocowUyVpeUbO9nme8Rou141OUkc9GeWAnqwAAAAAOgAAAAAIAACAAAACHMUzsi4eB45hzjsqtlN1V7JnZwKinvu73gh9DBgrBt4AAAAADv9QAzY5kH1KP5oh9aeG4AvnVeG9ids+lEJjP67bvAMCd9NfDysK4R/5aa6U1IzcXC3wH1yxY51e5ivK0yVVaxa5o8U4LkKJA+qwIvvczcjcnGmRkHv97LGHPgPFpm0jNO4pdANE9S/h8SzowlgT5Y1lHTVdD9Xa96DBwY7R6ckAAAAAh2O2w12HFuyWDy7lDsvIhUmb0gb1QKs8B5ZMNbje5I4OBjxlJH4s65GIwgyjxVDlHtjxBP9huvqHRVzBX+Woi</EncryptedPassword>
+    <History>True|2021-11-09T23:26:02.2265179Z;True|2021-11-09T20:12:38.7818189-03:00;True|2021-11-09T17:56:34.4942298-03:00;True|2021-11-09T17:53:54.2714134-03:00;True|2021-11-09T17:50:33.8065753-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ServerConnect">
+      <Value>Server=COMPUTER\SQLEXPRESS%3bDatabase=MyVerse%3bTrusted_Connection=True%3bMultipleActiveResultSets=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MyVerse.Context.AppDbContext">
+      <Value>Data Source=tcp:myversedbserver.database.windows.net,1433%3bInitial Catalog=MyVerse_db%3bUser Id=sqladmin%40myversedbserver%3bPassword=P3l1c4n0</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
