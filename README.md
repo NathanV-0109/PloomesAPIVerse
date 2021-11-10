@@ -20,10 +20,13 @@
 
 ## Ferramentas Utilizadas
 
-:heavy_check_mark: Asp.Net/C#
-:heavy_check_mark: Sql Server
-:heavy_check_mark: Azure
-:heavy_check_mark: Swagger
+:heavy_check_mark: Asp.Net/C#  
+
+:heavy_check_mark: Sql Server  
+
+:heavy_check_mark: Azure  
+
+:heavy_check_mark: Swagger  
 
 ## Descrição do projeto 
 
@@ -53,6 +56,8 @@ https://myverse.azurewebsites.net/swagger/index.html
 ```
 
 Com ele você consegue testar todas as funcionalidades ditas neste documento
+:warning: Lembrando que para poder inserir, modificar ou remover itens será necessário autenticação
+:warning: Por ser um teste, o login possui um User e Password padrão respectivamente ```"Admin"```  ```"Teste123"```, Em uma API de fato não se deve colocar esses dados sensiveis no back-end, além de ser uma má prática é um risco a segurança.
 
 
 
