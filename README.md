@@ -1,5 +1,8 @@
 <h1>My Verse API</h1> 
 
+Esta API tem como objetivo gerenciar/guardar notas relacionadas a versículo biblico
+Através dessa API, você consegue guardar o livro, seu respectivo capitulo, versiculo e o texto, não é necessário colocar o Id, pois o banco em sua inserção gerencia os Ids.
+
 <p align="left">
 
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
