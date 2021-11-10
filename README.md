@@ -3,7 +3,6 @@
 <p align="left">
 
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
@@ -18,13 +17,13 @@
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 :small_blue_diamond: [Ferramentas utilizadas](#ferramentas-utilizadas)
-... 
 
 ## Ferramentas Utilizadas
 
 :heavy_check_mark: Asp.Net/C#
 :heavy_check_mark: Sql Server
 :heavy_check_mark: Azure
+:heavy_check_mark: Swagger
 
 ## Descrição do projeto 
 
@@ -44,22 +43,17 @@
 
 :heavy_check_mark: Visualizar Dados  
 
-## Layout ou Deploy da Aplicação :dash:
-
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
 
 ## Como rodar a aplicação :arrow_forward:
 
 Para este desafio, foi disponibilizado um site para realizar testes, onde ele está integrado com o banco de dados do Azure, o link é o seguinte:
 
-
 ```
 https://myverse.azurewebsites.net/swagger/index.html
 ```
 
-... 
+Com ele você consegue testar todas as funcionalidades ditas neste documento
+
 
 
 ## Licença 
