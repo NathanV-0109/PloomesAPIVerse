@@ -61,8 +61,10 @@ Com ele você consegue testar todas as funcionalidades ditas neste documento
 :warning: Lembrando que para poder inserir, modificar ou remover itens será necessário autenticação  
 :warning: Por ser um teste, o login possui um User e Password padrão respectivamente ```"Admin"```  ```"Teste123"```, Em uma API de fato não se deve colocar esses dados sensiveis no back-end, além de ser uma má prática é um risco a segurança.
 
-
 <img src="img/1.gif" width="70%" height="auto" />
+<img src="img/2.gif" width="70%" height="auto" />
+<img src="img/3.gif" width="70%" height="auto" />
+<img src="img/4.gif" width="70%" height="auto" />
 
 ## Licença 
 
