@@ -1,8 +1,5 @@
 <h1>My Verse API</h1> 
 
-Esta API tem como objetivo gerenciar/guardar notas relacionadas a versículo biblico
-Através dessa API, você consegue guardar o livro, seu respectivo capitulo, versiculo e o texto, não é necessário colocar o Id, pois o banco em sua inserção gerencia os Ids.
-
 <p align="left">
 
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
@@ -34,6 +31,8 @@ Através dessa API, você consegue guardar o livro, seu respectivo capitulo, ver
 ## Descrição do projeto 
 
 <p align="justify">
+  Esta API tem como objetivo gerenciar/guardar notas relacionadas a versículo biblico
+  Através dessa API, você consegue guardar o livro, seu respectivo capitulo, versiculo e o texto, não é necessário colocar o Id, pois o banco em sua inserção gerencia os Ids.
   Esta API também contém um serviço de Login, o usuário coloca seu User e Password e então é gerado um token de acesso para ações de inserções, modificações e remoções no banco 
 </p>
 
@@ -58,8 +57,8 @@ Para este desafio, foi disponibilizado um site para realizar testes, onde ele es
 https://myverse.azurewebsites.net/swagger/index.html
 ```
 
-Com ele você consegue testar todas as funcionalidades ditas neste documento
-:warning: Lembrando que para poder inserir, modificar ou remover itens será necessário autenticação
+Com ele você consegue testar todas as funcionalidades ditas neste documento  
+:warning: Lembrando que para poder inserir, modificar ou remover itens será necessário autenticação  
 :warning: Por ser um teste, o login possui um User e Password padrão respectivamente ```"Admin"```  ```"Teste123"```, Em uma API de fato não se deve colocar esses dados sensiveis no back-end, além de ser uma má prática é um risco a segurança.
 
 
