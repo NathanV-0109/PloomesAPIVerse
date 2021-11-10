@@ -10,13 +10,13 @@
 
 ### Tópicos 
 
+:small_blue_diamond: [Ferramentas utilizadas](#ferramentas-utilizadas)
+
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
-:small_blue_diamond: [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 ## Ferramentas Utilizadas
 
