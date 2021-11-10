@@ -31,7 +31,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Esta API tem como objetivo gerenciar/guardar notas relacionadas a versículo biblico
+  Esta API tem como objetivo gerenciar/guardar notas relacionadas a versículo biblico  
   Através dessa API, você consegue guardar o livro, seu respectivo capitulo, versiculo e o texto, não é necessário colocar o Id, pois o banco em sua inserção gerencia os Ids.
   Esta API também contém um serviço de Login, o usuário coloca seu User e Password e então é gerado um token de acesso para ações de inserções, modificações e remoções no banco 
 </p>
